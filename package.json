@@ -1,0 +1,7 @@
+
+{
+  "homepage":"https://bharathicodes10.github.io/codechatgpt",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
